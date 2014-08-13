@@ -1,0 +1,3 @@
+[submodule "camelize-namespace"]
+	path = camelize-namespace
+	url = git@github.com:volkovasystems/camelize-namespace.git
